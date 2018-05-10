@@ -1,2 +1,2 @@
-# mq_glossary
+# memoq glossary
 memoq glossary
